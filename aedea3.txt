@@ -1,8 +1,8 @@
 LICENSE
-README.md
+yyREADME.md
 aedea.txt
-aedea2.txt
-aedea3.txt
+
+
 apple-touch-icon.png
 browserconfig.xml
 css/
@@ -10,6 +10,6 @@ favicon.ico
 fonts/
 img/
 index.html
-js/
+
 tile-wide.png
 tile.png
