@@ -1,2 +1,6 @@
 a ver si fetch funciona
+<<<<<<< HEAD
 sino pos como vdd
+=======
+ya voy entendiendo
+>>>>>>> cb149fc2c98ce090e6784f076639ebe3c17f811e
