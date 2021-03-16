@@ -13,3 +13,5 @@ index.html
 
 tile-wide.png
 tile.png
+
+esto es para aedea 3 pero en update branch
