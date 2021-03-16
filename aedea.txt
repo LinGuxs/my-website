@@ -9,5 +9,9 @@ fonts/
 img/
 index.html
 js/
+
+esto es nuevo codigo
 tile-wide.png
 tile.png
+
+y hasta abajo
